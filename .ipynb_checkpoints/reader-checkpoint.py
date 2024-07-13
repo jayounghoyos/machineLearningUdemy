@@ -9,4 +9,3 @@ print(df.shape)
 
 
 print(df.describe)
-

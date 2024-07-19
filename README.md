@@ -5,8 +5,7 @@ conda install jupyter
 jupyter notebook
 ```
 ## Command for Reading CSV with Specific Encoding
-
-Si encuentras errores de codificación al leer un archivo CSV, puedes especificar la codificación correcta utilizando el parámetro `encoding`. A continuación se muestra un ejemplo de cómo leer un archivo CSV utilizando la codificación `ISO-8859-1`:
+If you encounter encoding errors when reading a CSV file, you can specify the correct `encoding` using the encoding parameter. Below is an example of how to read a CSV file using the `ISO-8859-1` encoding:
 
 ```python
 import pandas as pd
